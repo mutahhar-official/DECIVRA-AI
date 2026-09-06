@@ -74,6 +74,7 @@ Produce a final decision-oriented response.
 - 📁 **File Upload Support** — Allows users to provide business information through uploaded files for analysis.
 - 💬 **Natural-Language Interaction** — Users can ask business questions without requiring technical knowledge.
 - 🔍 **Evidence-Based Analysis** — The workflow focuses on provided information and avoids intentionally inventing business data.
+- 🎨 Theme Support — Bizora AI supports both light and dark themes, allowing users to choose the interface style they prefer.
 
 ---
 
